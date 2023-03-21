@@ -1,1 +1,1 @@
-document.write('<script src="InGame/InGame.js"></script>');
+document.write('<script src="AllPlayer/AllPlayer.js"></script>');
